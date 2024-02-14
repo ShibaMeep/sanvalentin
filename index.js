@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Mas te vale tupida <3')
+    alert('Sabia que ibas a decir que si <3')
 });
 const noBtn =  document.querySelector('#noBtn')
 
